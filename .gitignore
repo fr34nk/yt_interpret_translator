@@ -1,0 +1,98 @@
+
+
+# -------------------------
+# Keys
+# -------------------------
+gemini.token
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+htmlcov/
+*.cover
+*.py,cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# Pylint
+pylint.log
+
+# Django / Flask common
+*.log
+instance/
+.webassets-cache
+db.sqlite3
+db.sqlite3-journal
+
+# Environment variables
+.env
+*.env
+.env.*
+
+# IDE / Editor files
+# VSCode
+.vscode/
+# PyCharm
+.idea/
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Local configs
+config.json
+settings.json
+secret*.json
+
+
